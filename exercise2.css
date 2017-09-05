@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS Exercises 1</title>
+        <link rel="stylesheet" type="text/css" href="exercise2.css">
+    </head>
+    <body>
+    ul.nav li{
+    display: inline-block;
+    padding-right: 10px;
+}
+#about_blue{
+  background:#6495ED;
+  border: 2px solid black;
+color: blue;
+}
+h2{color:black;}
+p{color:black;}
+#about_yellow{
+  background: #FFEBCD;
+  border: 2px solid black;
+  color: orange;
+}
+
+.important{
+  font-size: 16px
+  font-weight: bold;
+}
+ .object{background-color: red;
+   color: white
+    }
